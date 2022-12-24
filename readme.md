@@ -1,4 +1,4 @@
-# [A set of basic forms on Tailwind CSS](https://BilliZane.github.io/security_form_tailwind_css) #
+# [A set of basic forms on Tailwind CSS](https://BilliZane.github.io/security_form_tailwind_css/login.html) #
 
 ### Technology stack: ###
 
