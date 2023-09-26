@@ -1,4 +1,4 @@
-# [A set of basic forms on Tailwind CSS](https://BilliZane.github.io/security_form_tailwind_css/login.html) #
+# [A set of basic forms on Tailwind CSS](https://goldenspade.github.io/security_form_tailwind_css/login.html) #
 
 ### Technology stack: ###
 
@@ -7,9 +7,9 @@
 
 ### List of files: ###
 
-* ### [login](https://BilliZane.github.io/security_form_tailwind_css/login.html); ###
-* ### [register](https://BilliZane.github.io/security_form_tailwind_css/register.html); ###
-* ### [forgot-password](https://BilliZane.github.io/security_form_tailwind_css/forgot-password.html); ###
-* ### [reset-password](https://BilliZane.github.io/security_form_tailwind_css/reset-password.html); ###
-* ### [confirm-password](https://BilliZane.github.io/security_form_tailwind_css/confirm-password.html); ###
-* ### [verify-email](https://BilliZane.github.io/security_form_tailwind_css/verify-email.html). ###
+* ### [login](https://goldenspade.github.io/security_form_tailwind_css/login.html); ###
+* ### [register](https://goldenspade.github.io/security_form_tailwind_css/register.html); ###
+* ### [forgot-password](https://goldenspade.github.io/security_form_tailwind_css/forgot-password.html); ###
+* ### [reset-password](https://goldenspade.github.io/security_form_tailwind_css/reset-password.html); ###
+* ### [confirm-password](https://goldenspade.github.io/security_form_tailwind_css/confirm-password.html); ###
+* ### [verify-email](https://goldenspade.github.io/security_form_tailwind_css/verify-email.html). ###
